@@ -38,6 +38,10 @@ The Mbed Development board contains the following:
 - An ARM Mbed (LPC1786)
 
 
+## Source files
+
+Program code is stored in 'Program_code' branch of this repository
+
 ## Libraries used
 
 - The RS232 C library by Teunis van Beelen was used for this project. A link to this library: [RS232 Library](https://www.teuniz.net/RS-232/)
