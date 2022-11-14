@@ -50,11 +50,3 @@ RS232_CloseComport(cport_nr); //close the port
     return(0);
 }
 
-
-
-
-Launch Zoom Meeting
-Send with Gmail
-Share with Slack
-Send to Outlook
-
