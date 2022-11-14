@@ -6,6 +6,8 @@ This was created as part of an assignment for the 'CE223 - C Programming and Emb
 
 The task was to develop a guessing game on the ARM Mbed, using the ARM Mbed development board that was provided.
 
+<img src="Mbed board.jpg" width="350">
+
 The Mbed will interact with the host PC using serial communication via the RS232 protocol. And thus, a host terminal application is also developed (essentially a client-server model).  More details about the game are shown below
 
 - Once PC connection with Mbed started, the secret number is generated randomly for the player to guess.
