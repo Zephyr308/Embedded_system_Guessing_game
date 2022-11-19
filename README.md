@@ -36,7 +36,7 @@ The Mbed Development board contains the following:
 - 4x4 Number pad
 - LEDs which can display green or red, which is controlled via Serial Peripheral Interface (SPI).
 - Switches which are controlled by the latch pin of TLC59281 IC.
-- An Ethernet port (unused for this project)
+- An Ethernet port
 - An ARM Mbed (LPC1786)
 
 
